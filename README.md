@@ -3,7 +3,7 @@
 Welcome to the AI Hub's tutorial on analyzing Phase I Trials! This repo is made up of only a few files:
 
 - `phase_1_trail.ipynb`
-- `data/synthetic\_dose\_data.csv`
+- `data/synthetic_dose_data.csv`
 - `data/synthetic_participant_data.csv`
 - `data_definitions.md`
 

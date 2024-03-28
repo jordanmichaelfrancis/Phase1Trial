@@ -1,0 +1,127 @@
+DoseID,ParticipantID,DoseNumber,AdministrationDate,AdverseEvents,SeverityOfAdverseEvents,DurationOfAdverseEvents,VitalsPostDose,LabResultsPostDose
+1,368,1,2023-01-15,None,None,0,Normal,Abnormal
+2,368,2,2023-01-09,Mild,High,3,Elevated,Within Normal Limits
+3,481,1,2023-01-08,Mild,Low,3,Normal,Slightly Abnormal
+4,481,2,2023-01-07,None,None,0,Elevated,Within Normal Limits
+5,481,3,2023-01-08,None,None,0,Normal,Abnormal
+6,19,1,2023-01-23,None,None,0,Normal,Abnormal
+7,19,2,2023-01-12,None,None,0,Elevated,Abnormal
+8,19,3,2023-01-01,None,None,0,Elevated,Slightly Abnormal
+9,53,1,2023-01-03,Mild,Medium,3,Elevated,Slightly Abnormal
+10,53,2,2023-01-07,None,None,0,Elevated,Abnormal
+11,76,1,2023-01-26,None,None,0,Normal,Abnormal
+12,10,1,2023-01-07,None,None,0,Normal,Slightly Abnormal
+13,198,1,2023-01-05,None,None,0,Normal,Abnormal
+14,462,1,2023-01-11,None,None,0,Normal,Abnormal
+15,462,2,2023-01-27,None,None,0,Slightly Elevated,Slightly Abnormal
+16,462,3,2023-01-13,None,None,0,Normal,Slightly Abnormal
+17,85,1,2023-01-28,Mild,Medium,2,Elevated,Slightly Abnormal
+18,85,2,2023-01-23,Moderate,High,2,Normal,Within Normal Limits
+19,404,1,2023-01-25,None,None,0,Normal,Within Normal Limits
+20,404,2,2023-01-09,None,None,0,Slightly Elevated,Abnormal
+21,404,3,2023-01-09,None,None,0,Normal,Abnormal
+22,184,1,2023-01-10,None,None,0,Elevated,Abnormal
+23,278,1,2023-01-22,None,None,0,Normal,Within Normal Limits
+24,278,2,2023-01-17,None,None,0,Slightly Elevated,Abnormal
+25,278,3,2023-01-02,Mild,Low,1,Normal,Abnormal
+26,376,1,2023-01-17,Severe,Medium,3,Normal,Within Normal Limits
+27,376,2,2023-01-01,None,None,0,Slightly Elevated,Within Normal Limits
+28,376,3,2023-01-12,None,None,0,Slightly Elevated,Abnormal
+29,25,1,2023-01-04,None,None,0,Elevated,Within Normal Limits
+30,501,1,2023-01-06,None,None,0,Slightly Elevated,Slightly Abnormal
+31,49,1,2023-01-22,None,None,0,Normal,Within Normal Limits
+32,105,1,2023-01-28,None,None,0,Normal,Abnormal
+33,105,2,2023-01-20,None,None,0,Elevated,Slightly Abnormal
+34,102,1,2023-01-03,Mild,High,4,Normal,Within Normal Limits
+35,102,2,2023-01-08,None,None,0,Slightly Elevated,Within Normal Limits
+36,201,1,2023-01-11,None,None,0,Normal,Slightly Abnormal
+37,201,2,2023-01-23,None,None,0,Slightly Elevated,Abnormal
+38,265,1,2023-01-07,None,None,0,Slightly Elevated,Within Normal Limits
+39,100,1,2023-01-20,None,None,0,Slightly Elevated,Within Normal Limits
+40,100,2,2023-01-16,Severe,Low,1,Elevated,Abnormal
+41,535,1,2023-01-09,None,None,0,Elevated,Abnormal
+42,178,1,2023-01-20,Moderate,Low,4,Elevated,Within Normal Limits
+43,190,1,2023-01-08,Mild,Medium,3,Slightly Elevated,Within Normal Limits
+44,190,2,2023-01-03,Severe,Medium,4,Slightly Elevated,Slightly Abnormal
+45,367,1,2023-01-02,None,None,0,Normal,Within Normal Limits
+46,367,2,2023-01-04,Mild,Low,2,Normal,Abnormal
+47,471,1,2023-01-03,None,None,0,Normal,Abnormal
+48,471,2,2023-01-19,None,None,0,Slightly Elevated,Slightly Abnormal
+49,471,3,2023-01-06,Severe,High,2,Elevated,Abnormal
+50,360,1,2023-01-02,None,None,0,Normal,Abnormal
+51,28,1,2023-01-01,None,None,0,Normal,Abnormal
+52,28,2,2023-01-04,None,None,0,Normal,Within Normal Limits
+53,405,1,2023-01-12,Moderate,Low,2,Normal,Slightly Abnormal
+54,405,2,2023-01-03,Mild,Low,4,Normal,Within Normal Limits
+55,149,1,2023-01-14,Severe,High,4,Normal,Abnormal
+56,182,1,2023-01-21,None,None,0,Normal,Abnormal
+57,182,2,2023-01-18,None,None,0,Elevated,Slightly Abnormal
+58,358,1,2023-01-26,Moderate,Medium,4,Slightly Elevated,Abnormal
+59,165,1,2023-01-22,None,None,0,Elevated,Abnormal
+60,410,1,2023-01-10,Moderate,Low,4,Normal,Within Normal Limits
+61,410,2,2023-01-11,Mild,High,1,Slightly Elevated,Abnormal
+62,410,3,2023-01-26,Mild,Low,4,Normal,Slightly Abnormal
+63,151,1,2023-01-07,None,None,0,Normal,Within Normal Limits
+64,151,2,2023-01-08,Mild,Medium,4,Elevated,Abnormal
+65,151,3,2023-01-15,None,None,0,Slightly Elevated,Abnormal
+66,141,1,2023-01-22,None,None,0,Slightly Elevated,Abnormal
+67,141,2,2023-01-22,None,None,0,Slightly Elevated,Within Normal Limits
+68,141,3,2023-01-20,None,None,0,Elevated,Slightly Abnormal
+69,188,1,2023-01-11,None,None,0,Normal,Within Normal Limits
+70,188,2,2023-01-28,None,None,0,Normal,Abnormal
+71,420,1,2023-01-04,Mild,Medium,3,Elevated,Abnormal
+72,485,1,2023-01-08,Mild,Low,2,Slightly Elevated,Slightly Abnormal
+73,485,2,2023-01-19,Mild,High,3,Slightly Elevated,Abnormal
+74,369,1,2023-01-26,None,None,0,Normal,Slightly Abnormal
+75,369,2,2023-01-23,None,None,0,Normal,Within Normal Limits
+76,97,1,2023-01-26,Moderate,High,2,Slightly Elevated,Slightly Abnormal
+77,87,1,2023-01-16,None,None,0,Normal,Within Normal Limits
+78,87,2,2023-01-01,Severe,High,4,Elevated,Within Normal Limits
+79,512,1,2023-01-22,Mild,High,4,Slightly Elevated,Abnormal
+80,383,1,2023-01-05,None,None,0,Normal,Slightly Abnormal
+81,383,2,2023-01-28,None,None,0,Normal,Slightly Abnormal
+82,383,3,2023-01-14,Severe,Low,4,Slightly Elevated,Slightly Abnormal
+83,167,1,2023-01-16,Mild,Low,2,Slightly Elevated,Within Normal Limits
+84,429,1,2023-01-23,None,None,0,Slightly Elevated,Within Normal Limits
+85,429,2,2023-01-04,None,None,0,Elevated,Slightly Abnormal
+86,193,1,2023-01-26,Moderate,Low,4,Normal,Within Normal Limits
+87,193,2,2023-01-04,None,None,0,Elevated,Slightly Abnormal
+88,269,1,2023-01-17,Moderate,High,4,Slightly Elevated,Abnormal
+89,269,2,2023-01-28,None,None,0,Normal,Abnormal
+90,424,1,2023-01-11,Moderate,High,1,Normal,Slightly Abnormal
+91,424,2,2023-01-11,None,None,0,Normal,Abnormal
+92,143,1,2023-01-14,None,None,0,Elevated,Slightly Abnormal
+93,464,1,2023-01-03,None,None,0,Slightly Elevated,Within Normal Limits
+94,464,2,2023-01-26,None,None,0,Slightly Elevated,Slightly Abnormal
+95,464,3,2023-01-19,None,None,0,Slightly Elevated,Within Normal Limits
+96,391,1,2023-01-18,None,None,0,Normal,Within Normal Limits
+97,391,2,2023-01-21,Severe,Medium,1,Normal,Abnormal
+98,391,3,2023-01-17,Mild,Medium,1,Elevated,Abnormal
+99,427,1,2023-01-05,None,None,0,Elevated,Within Normal Limits
+100,427,2,2023-01-23,Mild,Low,2,Normal,Within Normal Limits
+101,427,3,2023-01-20,Mild,Medium,1,Elevated,Abnormal
+102,403,1,2023-01-17,None,None,0,Normal,Within Normal Limits
+103,403,2,2023-01-19,None,None,0,Elevated,Slightly Abnormal
+104,403,3,2023-01-20,None,None,0,Elevated,Within Normal Limits
+105,202,1,2023-01-05,None,None,0,Normal,Abnormal
+106,202,2,2023-01-21,Mild,High,4,Normal,Abnormal
+107,168,1,2023-01-13,Moderate,Medium,3,Slightly Elevated,Abnormal
+108,168,2,2023-01-26,None,None,0,Elevated,Within Normal Limits
+109,168,3,2023-01-11,Mild,High,4,Normal,Slightly Abnormal
+110,81,1,2023-01-26,None,None,0,Normal,Slightly Abnormal
+111,226,1,2023-01-07,None,None,0,Slightly Elevated,Within Normal Limits
+112,84,1,2023-01-18,Moderate,Medium,1,Normal,Within Normal Limits
+113,499,1,2023-01-06,Severe,Low,1,Slightly Elevated,Within Normal Limits
+114,499,2,2023-01-07,Severe,Medium,4,Elevated,Abnormal
+115,431,1,2023-01-12,None,None,0,Elevated,Slightly Abnormal
+116,431,2,2023-01-26,None,None,0,Slightly Elevated,Abnormal
+117,467,1,2023-01-13,None,None,0,Slightly Elevated,Slightly Abnormal
+118,160,1,2023-01-20,None,None,0,Normal,Abnormal
+119,160,2,2023-01-09,Mild,High,1,Slightly Elevated,Within Normal Limits
+120,160,3,2023-01-28,None,None,0,Normal,Slightly Abnormal
+121,170,1,2023-01-21,Severe,Low,4,Normal,Within Normal Limits
+122,170,2,2023-01-15,Moderate,Medium,1,Elevated,Within Normal Limits
+123,206,1,2023-01-04,None,None,0,Normal,Slightly Abnormal
+124,187,1,2023-01-15,None,None,0,Slightly Elevated,Abnormal
+125,187,2,2023-01-01,None,None,0,Slightly Elevated,Abnormal
+126,455,1,2023-01-16,Mild,High,4,Slightly Elevated,Slightly Abnormal

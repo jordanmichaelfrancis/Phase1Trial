@@ -1,0 +1,542 @@
+ParticipantID,Age,Gender,Ethnicity,Weight,Height,MedicalHistory,BaselineVitals,InclusionCriteriaMet,ExclusionCriteriaMet,Accepted,Started,Finished
+0,62,Male,Ethnicity1,61,164,History2,Elevated,FALSE,0,0,0,0
+1,49,Male,Ethnicity1,76,166,History2,Slightly Elevated,TRUE,0,0,0,0
+2,62,Male,Ethnicity2,57,172,History2,Normal,TRUE,0,0,0,0
+3,64,Other,Ethnicity4,74,173,History1,Elevated,FALSE,0,0,0,0
+4,38,Other,Ethnicity4,95,194,None,Normal,FALSE,0,0,0,0
+5,33,Female,Ethnicity4,53,168,History1,Slightly Elevated,FALSE,0,0,0,0
+6,38,Female,Ethnicity4,82,154,History1,Elevated,TRUE,0,0,0,0
+7,28,Female,Ethnicity2,50,181,History1,Slightly Elevated,TRUE,0,0,0,0
+8,54,Male,Ethnicity4,68,193,History2,Elevated,TRUE,0,0,0,0
+9,53,Male,Ethnicity3,80,150,History2,Elevated,FALSE,0,0,0,0
+10,52,Other,Ethnicity4,65,172,History2,Elevated,TRUE,0,1,1,1
+11,36,Male,Ethnicity1,63,186,None,Elevated,FALSE,0,0,0,0
+12,37,Male,Ethnicity4,97,157,History1,Elevated,TRUE,0,0,0,0
+13,35,Male,Ethnicity2,54,162,None,Normal,FALSE,0,0,0,0
+14,64,Female,Ethnicity1,90,157,History2,Elevated,TRUE,0,0,0,0
+15,58,Female,Ethnicity2,75,172,None,Elevated,TRUE,0,0,0,0
+16,31,Other,Ethnicity2,77,192,History1,Normal,TRUE,0,0,0,0
+17,32,Male,Ethnicity1,51,150,History1,Normal,FALSE,0,0,0,0
+18,48,Male,Ethnicity2,99,194,History2,Normal,FALSE,0,0,0,0
+19,18,Other,Ethnicity2,55,173,History2,Normal,TRUE,0,1,1,1
+20,20,Male,Ethnicity4,58,184,None,Normal,TRUE,0,0,0,0
+21,33,Male,Ethnicity3,82,173,History2,Normal,TRUE,0,0,0,0
+22,40,Female,Ethnicity2,90,166,History2,Elevated,FALSE,0,0,0,0
+23,28,Other,Ethnicity2,74,154,History1,Elevated,TRUE,0,0,0,0
+24,29,Other,Ethnicity2,97,169,History2,Slightly Elevated,TRUE,0,0,0,0
+25,27,Other,Ethnicity4,62,170,History2,Elevated,TRUE,0,1,1,0
+26,49,Other,Ethnicity3,58,189,History1,Elevated,TRUE,0,0,0,0
+27,33,Female,Ethnicity1,62,180,History1,Normal,FALSE,0,0,0,0
+28,25,Female,Ethnicity4,80,195,None,Normal,FALSE,0,1,1,1
+29,55,Male,Ethnicity4,90,185,History2,Elevated,TRUE,0,0,0,0
+30,29,Male,Ethnicity3,60,160,History1,Slightly Elevated,TRUE,0,0,0,0
+31,41,Male,Ethnicity3,53,164,None,Normal,FALSE,0,0,0,0
+32,45,Male,Ethnicity4,83,168,None,Elevated,FALSE,0,0,0,0
+33,25,Female,Ethnicity1,87,156,History2,Elevated,TRUE,0,0,0,0
+34,45,Other,Ethnicity4,95,177,History2,Slightly Elevated,FALSE,0,0,0,0
+35,53,Female,Ethnicity3,53,192,None,Slightly Elevated,FALSE,0,0,0,0
+36,43,Male,Ethnicity1,87,154,History1,Normal,TRUE,0,0,0,0
+37,25,Female,Ethnicity3,68,154,None,Slightly Elevated,FALSE,0,0,0,0
+38,45,Other,Ethnicity1,55,179,History2,Elevated,FALSE,0,0,0,0
+39,45,Other,Ethnicity2,83,181,History1,Elevated,TRUE,0,0,0,0
+40,54,Female,Ethnicity3,67,157,History1,Slightly Elevated,TRUE,0,0,0,0
+41,58,Female,Ethnicity3,62,159,None,Slightly Elevated,FALSE,0,0,0,0
+42,53,Female,Ethnicity4,90,187,History2,Slightly Elevated,TRUE,0,0,0,0
+43,44,Male,Ethnicity3,72,196,None,Slightly Elevated,FALSE,0,0,0,0
+44,34,Female,Ethnicity3,68,181,None,Normal,TRUE,0,0,0,0
+45,26,Female,Ethnicity2,94,197,None,Slightly Elevated,FALSE,0,0,0,0
+46,50,Female,Ethnicity3,60,177,History1,Normal,TRUE,0,0,0,0
+47,37,Other,Ethnicity2,50,166,History1,Elevated,FALSE,0,0,0,0
+48,30,Other,Ethnicity2,73,180,History2,Slightly Elevated,FALSE,0,0,0,0
+49,45,Male,Ethnicity2,56,157,History2,Normal,FALSE,0,1,1,1
+50,46,Male,Ethnicity2,74,189,None,Slightly Elevated,TRUE,0,0,0,0
+51,30,Other,Ethnicity1,70,174,None,Elevated,TRUE,0,0,0,0
+52,63,Other,Ethnicity4,64,158,None,Elevated,FALSE,0,0,0,0
+53,52,Other,Ethnicity1,50,151,History2,Elevated,FALSE,0,1,1,1
+54,23,Female,Ethnicity3,61,164,History1,Slightly Elevated,TRUE,0,0,0,0
+55,35,Female,Ethnicity1,56,199,History1,Slightly Elevated,TRUE,0,0,0,0
+56,22,Other,Ethnicity1,64,152,None,Normal,TRUE,0,0,0,0
+57,64,Female,Ethnicity3,70,198,None,Elevated,TRUE,0,0,0,0
+58,42,Female,Ethnicity3,68,185,None,Slightly Elevated,TRUE,0,0,0,0
+59,19,Male,Ethnicity3,78,153,None,Elevated,TRUE,0,0,0,0
+60,27,Other,Ethnicity1,74,163,History2,Elevated,FALSE,0,0,0,0
+61,47,Other,Ethnicity1,82,190,History1,Normal,TRUE,0,0,0,0
+62,62,Female,Ethnicity3,98,190,None,Normal,FALSE,0,0,0,0
+63,22,Other,Ethnicity4,81,174,History2,Normal,TRUE,0,0,0,0
+64,50,Male,Ethnicity4,98,199,None,Normal,TRUE,0,0,0,0
+65,18,Male,Ethnicity2,84,159,None,Elevated,FALSE,0,0,0,0
+66,35,Male,Ethnicity3,93,170,History1,Normal,FALSE,0,0,0,0
+67,49,Other,Ethnicity2,87,185,None,Normal,TRUE,0,0,0,0
+68,64,Other,Ethnicity4,75,161,History1,Normal,FALSE,0,0,0,0
+69,28,Other,Ethnicity2,60,176,History1,Normal,FALSE,0,0,0,0
+70,38,Other,Ethnicity3,84,189,History1,Elevated,FALSE,0,0,0,0
+71,43,Other,Ethnicity3,57,151,History2,Normal,FALSE,0,0,0,0
+72,42,Male,Ethnicity3,95,162,History2,Elevated,TRUE,0,0,0,0
+73,39,Female,Ethnicity1,63,181,History1,Slightly Elevated,FALSE,0,0,0,0
+74,44,Male,Ethnicity2,59,180,None,Elevated,TRUE,0,1,0,0
+75,30,Other,Ethnicity4,51,165,History1,Elevated,TRUE,0,0,0,0
+76,50,Male,Ethnicity4,95,181,None,Normal,TRUE,0,1,1,0
+77,51,Other,Ethnicity4,58,181,History1,Slightly Elevated,TRUE,0,0,0,0
+78,58,Other,Ethnicity1,52,183,None,Slightly Elevated,FALSE,0,0,0,0
+79,52,Male,Ethnicity1,70,160,History2,Slightly Elevated,FALSE,0,0,0,0
+80,18,Other,Ethnicity3,75,159,None,Slightly Elevated,TRUE,0,0,0,0
+81,38,Female,Ethnicity4,57,164,History1,Elevated,TRUE,0,1,1,1
+82,23,Other,Ethnicity1,97,166,History2,Slightly Elevated,TRUE,0,0,0,0
+83,45,Female,Ethnicity3,51,189,None,Elevated,TRUE,0,0,0,0
+84,34,Female,Ethnicity4,55,167,None,Elevated,FALSE,0,1,1,1
+85,22,Other,Ethnicity2,77,158,None,Elevated,TRUE,0,1,1,1
+86,48,Male,Ethnicity3,78,174,None,Slightly Elevated,FALSE,0,0,0,0
+87,22,Female,Ethnicity1,75,189,None,Normal,TRUE,0,1,1,1
+88,55,Male,Ethnicity1,74,163,History2,Normal,TRUE,0,0,0,0
+89,20,Female,Ethnicity3,61,174,History2,Slightly Elevated,TRUE,0,0,0,0
+90,40,Other,Ethnicity3,54,199,History2,Normal,TRUE,0,0,0,0
+91,54,Other,Ethnicity1,83,171,History2,Normal,FALSE,0,0,0,0
+92,54,Female,Ethnicity2,97,179,History1,Elevated,FALSE,0,0,0,0
+93,27,Other,Ethnicity4,86,169,History2,Elevated,FALSE,0,0,0,0
+94,27,Female,Ethnicity2,64,170,None,Slightly Elevated,TRUE,0,0,0,0
+95,36,Other,Ethnicity3,93,193,None,Slightly Elevated,TRUE,0,0,0,0
+96,34,Male,Ethnicity2,85,181,History2,Normal,FALSE,0,0,0,0
+97,38,Other,Ethnicity1,64,195,None,Elevated,FALSE,0,1,1,1
+98,31,Male,Ethnicity3,92,198,History2,Slightly Elevated,TRUE,0,0,0,0
+99,26,Other,Ethnicity4,97,170,None,Slightly Elevated,TRUE,0,0,0,0
+100,63,Male,Ethnicity1,72,184,History1,Slightly Elevated,FALSE,0,1,1,1
+101,18,Other,Ethnicity1,55,181,History1,Slightly Elevated,TRUE,0,0,0,0
+102,62,Male,Ethnicity4,95,179,History2,Slightly Elevated,TRUE,0,1,1,1
+103,30,Female,Ethnicity4,99,188,History2,Slightly Elevated,FALSE,0,0,0,0
+104,21,Female,Ethnicity2,93,198,History2,Normal,TRUE,0,0,0,0
+105,18,Male,Ethnicity3,92,161,None,Elevated,FALSE,0,1,1,1
+106,57,Other,Ethnicity4,94,190,History2,Elevated,TRUE,0,0,0,0
+107,49,Male,Ethnicity4,70,196,History1,Slightly Elevated,FALSE,0,0,0,0
+108,51,Other,Ethnicity3,72,167,None,Elevated,TRUE,0,0,0,0
+109,45,Female,Ethnicity4,92,170,History2,Elevated,FALSE,0,0,0,0
+110,48,Other,Ethnicity4,65,162,None,Elevated,FALSE,0,0,0,0
+111,25,Female,Ethnicity2,96,170,None,Slightly Elevated,FALSE,0,0,0,0
+112,56,Other,Ethnicity1,64,157,History2,Slightly Elevated,FALSE,0,0,0,0
+113,43,Other,Ethnicity1,74,195,None,Elevated,TRUE,0,0,0,0
+114,51,Other,Ethnicity1,85,189,History1,Elevated,TRUE,0,0,0,0
+115,20,Male,Ethnicity1,60,195,History1,Slightly Elevated,FALSE,0,0,0,0
+116,29,Male,Ethnicity4,64,156,None,Normal,TRUE,0,0,0,0
+117,18,Female,Ethnicity3,53,172,History2,Elevated,TRUE,0,0,0,0
+118,61,Female,Ethnicity3,70,193,None,Normal,TRUE,0,0,0,0
+119,22,Male,Ethnicity2,62,181,History1,Elevated,TRUE,0,0,0,0
+120,47,Female,Ethnicity2,71,160,None,Normal,TRUE,0,0,0,0
+121,47,Male,Ethnicity4,68,171,None,Normal,FALSE,0,0,0,0
+122,34,Other,Ethnicity3,83,171,History1,Normal,FALSE,0,0,0,0
+123,64,Female,Ethnicity3,63,192,None,Slightly Elevated,FALSE,0,0,0,0
+124,40,Female,Ethnicity1,53,174,None,Normal,FALSE,0,0,0,0
+125,32,Male,Ethnicity4,97,171,History2,Normal,TRUE,0,0,0,0
+126,54,Female,Ethnicity4,95,177,History2,Normal,TRUE,0,0,0,0
+127,38,Female,Ethnicity1,76,178,History1,Elevated,FALSE,0,0,0,0
+128,31,Other,Ethnicity4,78,162,History1,Normal,TRUE,0,0,0,0
+129,19,Female,Ethnicity4,96,167,History1,Elevated,TRUE,0,0,0,0
+130,28,Other,Ethnicity2,77,151,History2,Normal,FALSE,0,0,0,0
+131,56,Male,Ethnicity3,84,178,History1,Normal,TRUE,0,0,0,0
+132,55,Female,Ethnicity4,57,170,History1,Slightly Elevated,FALSE,0,0,0,0
+133,51,Other,Ethnicity2,65,164,History1,Elevated,FALSE,0,0,0,0
+134,55,Male,Ethnicity3,91,176,History2,Normal,TRUE,0,0,0,0
+135,51,Female,Ethnicity1,85,199,None,Elevated,TRUE,0,0,0,0
+136,35,Male,Ethnicity2,79,180,History1,Elevated,FALSE,0,0,0,0
+137,47,Female,Ethnicity2,67,164,None,Slightly Elevated,FALSE,0,0,0,0
+138,32,Male,Ethnicity3,51,172,History1,Slightly Elevated,TRUE,0,0,0,0
+139,44,Male,Ethnicity1,98,173,None,Slightly Elevated,FALSE,0,0,0,0
+140,51,Other,Ethnicity2,62,193,History2,Slightly Elevated,FALSE,0,0,0,0
+141,55,Male,Ethnicity4,53,162,History2,Slightly Elevated,FALSE,0,1,1,1
+142,50,Female,Ethnicity4,75,171,History1,Slightly Elevated,TRUE,0,0,0,0
+143,41,Female,Ethnicity4,74,192,None,Slightly Elevated,FALSE,0,1,1,1
+144,32,Other,Ethnicity1,79,186,History2,Slightly Elevated,TRUE,0,0,0,0
+145,47,Female,Ethnicity2,60,182,History1,Normal,FALSE,0,0,0,0
+146,59,Female,Ethnicity4,56,152,History1,Elevated,TRUE,0,0,0,0
+147,34,Female,Ethnicity1,80,168,History2,Slightly Elevated,FALSE,0,0,0,0
+148,22,Male,Ethnicity4,93,172,History2,Slightly Elevated,TRUE,0,0,0,0
+149,46,Male,Ethnicity3,59,178,History1,Elevated,TRUE,0,1,1,1
+150,21,Female,Ethnicity2,88,179,None,Normal,TRUE,0,0,0,0
+151,27,Other,Ethnicity2,62,188,None,Elevated,FALSE,0,1,1,0
+152,34,Male,Ethnicity1,80,193,None,Elevated,FALSE,0,0,0,0
+153,27,Other,Ethnicity1,56,196,History1,Slightly Elevated,FALSE,0,0,0,0
+154,34,Female,Ethnicity2,98,174,History2,Elevated,TRUE,0,0,0,0
+155,37,Female,Ethnicity4,91,186,History1,Elevated,FALSE,0,0,0,0
+156,41,Male,Ethnicity4,91,196,History2,Slightly Elevated,TRUE,0,0,0,0
+157,22,Female,Ethnicity3,85,157,None,Slightly Elevated,FALSE,0,0,0,0
+158,51,Male,Ethnicity4,69,191,None,Slightly Elevated,TRUE,0,0,0,0
+159,23,Female,Ethnicity1,53,165,History2,Slightly Elevated,TRUE,0,0,0,0
+160,19,Female,Ethnicity1,56,157,History2,Elevated,TRUE,0,1,1,1
+161,30,Male,Ethnicity4,50,150,History1,Elevated,FALSE,0,0,0,0
+162,60,Male,Ethnicity1,93,193,None,Normal,FALSE,0,0,0,0
+163,60,Male,Ethnicity2,94,154,History1,Normal,FALSE,0,0,0,0
+164,28,Female,Ethnicity2,91,152,History1,Elevated,TRUE,0,0,0,0
+165,64,Female,Ethnicity4,96,150,History1,Normal,TRUE,0,1,1,1
+166,40,Other,Ethnicity2,62,153,None,Elevated,FALSE,0,0,0,0
+167,33,Male,Ethnicity2,71,189,History1,Normal,FALSE,0,1,1,1
+168,48,Female,Ethnicity3,70,184,History1,Slightly Elevated,FALSE,0,1,1,1
+169,28,Female,Ethnicity3,71,181,History1,Normal,TRUE,0,0,0,0
+170,33,Male,Ethnicity2,77,191,History1,Slightly Elevated,TRUE,0,1,1,1
+171,25,Other,Ethnicity4,58,183,History1,Slightly Elevated,TRUE,0,0,0,0
+172,21,Male,Ethnicity3,75,192,History1,Slightly Elevated,TRUE,0,0,0,0
+173,57,Other,Ethnicity1,58,174,None,Slightly Elevated,TRUE,0,0,0,0
+174,21,Female,Ethnicity1,64,159,History1,Normal,FALSE,0,0,0,0
+175,42,Other,Ethnicity1,59,170,History2,Elevated,TRUE,0,0,0,0
+176,20,Female,Ethnicity4,73,195,History1,Slightly Elevated,TRUE,0,0,0,0
+177,49,Male,Ethnicity2,91,188,History1,Normal,TRUE,0,0,0,0
+178,20,Male,Ethnicity1,57,176,None,Slightly Elevated,TRUE,0,1,1,0
+179,44,Male,Ethnicity4,73,176,None,Normal,TRUE,0,0,0,0
+180,46,Other,Ethnicity3,65,151,History2,Normal,FALSE,0,0,0,0
+181,49,Female,Ethnicity2,98,190,History2,Normal,TRUE,0,0,0,0
+182,36,Male,Ethnicity3,75,197,None,Elevated,TRUE,0,1,1,1
+183,38,Male,Ethnicity4,76,162,None,Normal,TRUE,0,0,0,0
+184,22,Female,Ethnicity1,86,158,History1,Normal,FALSE,0,1,1,0
+185,35,Male,Ethnicity1,53,185,None,Elevated,FALSE,0,0,0,0
+186,45,Female,Ethnicity4,99,171,History2,Elevated,FALSE,0,0,0,0
+187,59,Female,Ethnicity1,73,191,History1,Normal,TRUE,0,1,1,1
+188,39,Female,Ethnicity2,68,175,History2,Elevated,FALSE,0,1,1,1
+189,38,Female,Ethnicity4,85,161,History1,Slightly Elevated,TRUE,0,0,0,0
+190,23,Female,Ethnicity3,88,166,None,Slightly Elevated,TRUE,0,1,1,1
+191,18,Other,Ethnicity4,59,163,History2,Elevated,FALSE,0,0,0,0
+192,22,Male,Ethnicity2,74,163,History1,Elevated,TRUE,0,0,0,0
+193,58,Other,Ethnicity2,67,183,History1,Normal,TRUE,0,1,1,1
+194,29,Male,Ethnicity4,68,169,None,Elevated,TRUE,0,0,0,0
+195,43,Other,Ethnicity4,85,160,None,Normal,FALSE,0,0,0,0
+196,63,Female,Ethnicity1,59,165,None,Slightly Elevated,TRUE,0,0,0,0
+197,51,Male,Ethnicity2,82,180,History2,Elevated,TRUE,0,0,0,0
+198,31,Male,Ethnicity4,99,155,History1,Normal,FALSE,0,1,1,1
+199,43,Other,Ethnicity4,54,168,None,Normal,TRUE,0,0,0,0
+200,62,Other,Ethnicity2,96,186,History2,Slightly Elevated,TRUE,0,0,0,0
+201,44,Male,Ethnicity4,98,153,History2,Elevated,FALSE,0,1,1,1
+202,26,Other,Ethnicity1,84,196,History2,Slightly Elevated,TRUE,0,1,1,1
+203,43,Other,Ethnicity2,93,153,None,Normal,TRUE,0,0,0,0
+204,64,Other,Ethnicity1,83,169,None,Normal,TRUE,0,0,0,0
+205,39,Female,Ethnicity1,82,159,History1,Elevated,TRUE,0,0,0,0
+206,64,Female,Ethnicity1,70,173,History1,Normal,TRUE,0,1,1,1
+207,47,Other,Ethnicity1,66,184,None,Elevated,FALSE,0,0,0,0
+208,60,Other,Ethnicity2,71,175,History2,Slightly Elevated,FALSE,0,0,0,0
+209,34,Female,Ethnicity1,97,186,History2,Elevated,FALSE,0,0,0,0
+210,43,Female,Ethnicity1,86,187,History2,Elevated,FALSE,0,0,0,0
+211,53,Male,Ethnicity4,64,170,History1,Normal,TRUE,0,0,0,0
+212,18,Male,Ethnicity2,84,189,History2,Normal,TRUE,0,0,0,0
+213,25,Female,Ethnicity2,77,188,History1,Elevated,TRUE,0,0,0,0
+214,52,Other,Ethnicity3,56,170,History1,Normal,TRUE,0,0,0,0
+215,32,Other,Ethnicity2,81,159,History2,Normal,TRUE,0,0,0,0
+216,64,Other,Ethnicity2,60,187,History2,Normal,FALSE,0,0,0,0
+217,39,Other,Ethnicity3,59,195,None,Elevated,FALSE,0,0,0,0
+218,31,Male,Ethnicity2,58,153,None,Normal,TRUE,0,0,0,0
+219,43,Female,Ethnicity2,63,194,History2,Elevated,TRUE,0,0,0,0
+220,45,Other,Ethnicity2,62,169,History1,Normal,TRUE,0,0,0,0
+221,40,Male,Ethnicity2,74,166,History1,Slightly Elevated,FALSE,0,0,0,0
+222,31,Other,Ethnicity3,51,156,History1,Normal,TRUE,0,0,0,0
+223,41,Female,Ethnicity2,84,153,History1,Normal,TRUE,0,0,0,0
+224,19,Male,Ethnicity2,56,178,History1,Elevated,TRUE,0,0,0,0
+225,62,Female,Ethnicity3,70,163,None,Elevated,FALSE,0,0,0,0
+226,43,Female,Ethnicity4,67,152,History2,Normal,TRUE,0,1,1,1
+227,31,Male,Ethnicity1,52,173,None,Slightly Elevated,FALSE,0,0,0,0
+228,24,Male,Ethnicity4,91,186,History1,Normal,FALSE,0,0,0,0
+229,20,Male,Ethnicity3,88,165,History1,Normal,FALSE,0,0,0,0
+230,64,Male,Ethnicity1,90,153,History1,Slightly Elevated,FALSE,0,0,0,0
+231,40,Male,Ethnicity3,98,173,History1,Elevated,FALSE,0,0,0,0
+232,63,Male,Ethnicity3,60,183,History2,Normal,FALSE,0,0,0,0
+233,60,Male,Ethnicity2,88,179,History1,Elevated,TRUE,0,0,0,0
+234,64,Other,Ethnicity1,73,167,History2,Elevated,TRUE,0,0,0,0
+235,62,Female,Ethnicity2,95,168,History1,Slightly Elevated,TRUE,0,0,0,0
+236,35,Male,Ethnicity1,68,180,History2,Slightly Elevated,FALSE,0,0,0,0
+237,55,Other,Ethnicity3,53,168,None,Elevated,TRUE,0,0,0,0
+238,52,Other,Ethnicity3,75,198,History1,Normal,FALSE,0,0,0,0
+239,32,Other,Ethnicity4,87,195,History2,Elevated,FALSE,0,0,0,0
+240,42,Female,Ethnicity1,91,168,None,Normal,FALSE,0,0,0,0
+241,54,Male,Ethnicity2,81,171,History1,Normal,TRUE,0,0,0,0
+242,45,Other,Ethnicity4,88,173,History1,Slightly Elevated,FALSE,0,0,0,0
+243,27,Female,Ethnicity4,94,194,History1,Normal,FALSE,0,0,0,0
+244,56,Female,Ethnicity4,95,161,History2,Normal,TRUE,0,0,0,0
+245,34,Female,Ethnicity2,85,179,History2,Elevated,TRUE,0,0,0,0
+246,56,Other,Ethnicity4,89,187,None,Slightly Elevated,FALSE,0,0,0,0
+247,39,Male,Ethnicity2,86,180,History2,Normal,FALSE,0,0,0,0
+248,43,Other,Ethnicity4,82,185,History2,Normal,TRUE,0,0,0,0
+249,61,Other,Ethnicity2,85,168,History1,Slightly Elevated,TRUE,0,0,0,0
+250,42,Male,Ethnicity3,52,197,History1,Elevated,TRUE,0,0,0,0
+251,34,Male,Ethnicity3,58,194,History1,Slightly Elevated,FALSE,0,0,0,0
+252,30,Male,Ethnicity3,57,185,History1,Slightly Elevated,TRUE,0,0,0,0
+253,37,Female,Ethnicity3,82,179,History1,Normal,TRUE,0,0,0,0
+254,42,Male,Ethnicity3,55,198,History1,Normal,TRUE,0,0,0,0
+255,21,Other,Ethnicity4,90,182,History1,Elevated,FALSE,0,0,0,0
+256,27,Male,Ethnicity4,88,167,None,Normal,TRUE,0,0,0,0
+257,20,Other,Ethnicity4,53,198,None,Normal,TRUE,0,0,0,0
+258,58,Female,Ethnicity2,62,177,None,Slightly Elevated,TRUE,0,0,0,0
+259,62,Other,Ethnicity2,98,196,None,Normal,TRUE,0,0,0,0
+260,35,Other,Ethnicity2,51,160,History1,Elevated,TRUE,0,0,0,0
+261,64,Male,Ethnicity2,54,194,None,Slightly Elevated,FALSE,0,0,0,0
+262,53,Male,Ethnicity3,93,182,History1,Elevated,FALSE,0,0,0,0
+263,64,Other,Ethnicity3,76,166,None,Slightly Elevated,FALSE,0,0,0,0
+264,39,Male,Ethnicity3,81,155,History2,Normal,TRUE,0,0,0,0
+265,51,Female,Ethnicity1,70,153,None,Slightly Elevated,FALSE,0,1,1,1
+266,64,Female,Ethnicity4,57,169,None,Slightly Elevated,FALSE,0,0,0,0
+267,25,Male,Ethnicity2,87,197,History1,Normal,FALSE,0,0,0,0
+268,57,Female,Ethnicity2,57,196,None,Normal,TRUE,0,0,0,0
+269,61,Male,Ethnicity3,99,176,History2,Elevated,TRUE,0,1,1,1
+270,36,Other,Ethnicity2,52,164,History1,Elevated,FALSE,0,0,0,0
+271,59,Other,Ethnicity2,93,155,History1,Normal,FALSE,0,0,0,0
+272,58,Female,Ethnicity4,52,196,None,Normal,TRUE,0,0,0,0
+273,54,Male,Ethnicity3,71,163,History1,Normal,TRUE,0,0,0,0
+274,23,Male,Ethnicity4,55,160,History1,Slightly Elevated,FALSE,0,0,0,0
+275,43,Female,Ethnicity1,51,188,History1,Slightly Elevated,TRUE,0,0,0,0
+276,51,Other,Ethnicity1,72,158,History1,Slightly Elevated,FALSE,0,0,0,0
+277,62,Female,Ethnicity1,93,175,History1,Normal,TRUE,0,0,0,0
+278,23,Other,Ethnicity3,51,165,History1,Elevated,FALSE,0,1,1,1
+279,54,Male,Ethnicity2,87,154,History2,Normal,FALSE,0,0,0,0
+280,50,Other,Ethnicity3,66,159,None,Slightly Elevated,TRUE,0,0,0,0
+281,39,Female,Ethnicity3,84,199,History2,Slightly Elevated,FALSE,0,0,0,0
+282,38,Male,Ethnicity2,83,152,History1,Normal,FALSE,0,0,0,0
+283,23,Female,Ethnicity4,72,162,History1,Normal,FALSE,0,0,0,0
+284,23,Female,Ethnicity1,79,192,None,Slightly Elevated,TRUE,0,0,0,0
+285,21,Other,Ethnicity4,57,198,History2,Slightly Elevated,TRUE,0,0,0,0
+286,47,Female,Ethnicity1,71,179,None,Slightly Elevated,TRUE,0,0,0,0
+287,28,Other,Ethnicity3,93,194,History2,Normal,FALSE,0,0,0,0
+288,47,Male,Ethnicity1,85,155,History1,Slightly Elevated,TRUE,0,0,0,0
+289,48,Other,Ethnicity3,54,166,None,Slightly Elevated,FALSE,0,0,0,0
+290,41,Male,Ethnicity4,62,194,None,Elevated,FALSE,0,0,0,0
+291,26,Other,Ethnicity3,78,168,History1,Normal,TRUE,0,0,0,0
+292,20,Female,Ethnicity4,80,191,None,Elevated,TRUE,0,0,0,0
+293,48,Other,Ethnicity2,96,184,History2,Elevated,FALSE,0,0,0,0
+294,57,Other,Ethnicity2,65,195,History2,Slightly Elevated,FALSE,0,0,0,0
+295,54,Male,Ethnicity2,91,175,History2,Normal,TRUE,0,0,0,0
+296,53,Female,Ethnicity3,79,154,History2,Slightly Elevated,TRUE,0,0,0,0
+297,41,Other,Ethnicity2,65,178,History1,Normal,TRUE,0,0,0,0
+298,48,Female,Ethnicity1,61,186,None,Elevated,FALSE,0,0,0,0
+299,23,Other,Ethnicity4,66,169,History2,Normal,FALSE,0,0,0,0
+300,19,Other,Ethnicity4,65,198,History1,Slightly Elevated,FALSE,0,0,0,0
+301,37,Female,Ethnicity1,61,170,None,Slightly Elevated,FALSE,0,0,0,0
+302,45,Other,Ethnicity3,57,159,None,Slightly Elevated,FALSE,0,0,0,0
+303,28,Female,Ethnicity3,69,154,History1,Normal,TRUE,0,0,0,0
+304,21,Other,Ethnicity4,52,185,History1,Elevated,TRUE,0,0,0,0
+305,32,Male,Ethnicity2,65,155,History2,Elevated,FALSE,0,0,0,0
+306,23,Female,Ethnicity3,79,175,None,Normal,FALSE,0,0,0,0
+307,47,Other,Ethnicity3,94,153,None,Slightly Elevated,TRUE,0,0,0,0
+308,55,Other,Ethnicity1,72,188,History1,Elevated,TRUE,0,0,0,0
+309,19,Male,Ethnicity1,77,188,None,Slightly Elevated,TRUE,0,0,0,0
+310,32,Female,Ethnicity2,89,199,History2,Normal,TRUE,0,0,0,0
+311,28,Other,Ethnicity3,54,184,None,Slightly Elevated,FALSE,0,0,0,0
+312,25,Male,Ethnicity3,69,150,History1,Elevated,TRUE,0,0,0,0
+313,43,Other,Ethnicity1,89,173,History1,Elevated,FALSE,0,0,0,0
+314,62,Female,Ethnicity3,93,185,History2,Slightly Elevated,TRUE,0,0,0,0
+315,61,Other,Ethnicity4,50,155,History2,Normal,TRUE,0,0,0,0
+316,22,Other,Ethnicity1,79,190,None,Slightly Elevated,TRUE,0,0,0,0
+317,23,Other,Ethnicity2,70,195,None,Normal,FALSE,0,0,0,0
+318,43,Other,Ethnicity1,69,193,History1,Slightly Elevated,FALSE,0,0,0,0
+319,21,Male,Ethnicity3,55,180,History2,Elevated,TRUE,0,0,0,0
+320,36,Male,Ethnicity2,71,169,History2,Normal,FALSE,0,0,0,0
+321,37,Female,Ethnicity1,67,173,History2,Normal,FALSE,0,0,0,0
+322,50,Male,Ethnicity4,57,174,None,Normal,TRUE,0,0,0,0
+323,37,Male,Ethnicity4,88,185,History2,Elevated,TRUE,0,0,0,0
+324,29,Female,Ethnicity1,81,170,History1,Slightly Elevated,FALSE,0,0,0,0
+325,64,Male,Ethnicity4,82,179,History1,Elevated,FALSE,0,0,0,0
+326,18,Male,Ethnicity4,65,173,None,Normal,FALSE,0,0,0,0
+327,43,Female,Ethnicity4,61,193,None,Slightly Elevated,TRUE,0,0,0,0
+328,31,Female,Ethnicity2,87,191,History2,Elevated,TRUE,0,0,0,0
+329,55,Female,Ethnicity4,83,179,None,Normal,FALSE,0,0,0,0
+330,54,Other,Ethnicity4,63,171,History1,Normal,TRUE,0,0,0,0
+331,28,Other,Ethnicity4,85,177,History2,Elevated,TRUE,0,0,0,0
+332,53,Female,Ethnicity2,82,156,History1,Elevated,FALSE,0,0,0,0
+333,30,Female,Ethnicity1,72,184,History2,Elevated,FALSE,0,0,0,0
+334,60,Female,Ethnicity3,99,177,None,Normal,TRUE,0,0,0,0
+335,20,Other,Ethnicity4,94,163,History2,Elevated,TRUE,0,0,0,0
+336,50,Other,Ethnicity1,51,159,History2,Normal,FALSE,0,0,0,0
+337,23,Male,Ethnicity4,90,165,History1,Elevated,TRUE,0,0,0,0
+338,27,Male,Ethnicity2,70,165,History1,Normal,TRUE,0,0,0,0
+339,22,Female,Ethnicity1,51,180,History2,Normal,FALSE,0,0,0,0
+340,40,Other,Ethnicity2,76,191,None,Slightly Elevated,FALSE,0,0,0,0
+341,27,Other,Ethnicity4,58,174,None,Elevated,TRUE,0,0,0,0
+342,61,Other,Ethnicity4,50,162,History1,Elevated,TRUE,0,0,0,0
+343,19,Female,Ethnicity2,60,155,None,Normal,TRUE,0,0,0,0
+344,30,Male,Ethnicity3,52,193,History1,Normal,FALSE,0,0,0,0
+345,57,Female,Ethnicity2,72,158,None,Normal,TRUE,0,0,0,0
+346,19,Male,Ethnicity4,75,194,History2,Slightly Elevated,TRUE,0,0,0,0
+347,37,Male,Ethnicity2,53,185,History1,Slightly Elevated,FALSE,0,0,0,0
+348,18,Female,Ethnicity3,67,192,History1,Normal,FALSE,0,0,0,0
+349,54,Male,Ethnicity2,55,169,History2,Elevated,TRUE,0,0,0,0
+350,26,Male,Ethnicity3,84,167,History1,Elevated,FALSE,0,0,0,0
+351,34,Other,Ethnicity3,71,192,None,Slightly Elevated,FALSE,0,0,0,0
+352,26,Male,Ethnicity2,92,170,None,Slightly Elevated,TRUE,0,0,0,0
+353,28,Female,Ethnicity2,64,153,History1,Normal,FALSE,0,0,0,0
+354,32,Female,Ethnicity1,71,199,None,Elevated,FALSE,0,0,0,0
+355,41,Male,Ethnicity4,86,182,History1,Normal,TRUE,0,0,0,0
+356,55,Other,Ethnicity3,91,176,History2,Slightly Elevated,FALSE,0,0,0,0
+357,52,Other,Ethnicity1,61,156,History1,Elevated,TRUE,0,0,0,0
+358,47,Male,Ethnicity2,96,155,History2,Elevated,TRUE,0,1,1,1
+359,48,Male,Ethnicity4,98,164,None,Slightly Elevated,FALSE,0,0,0,0
+360,22,Female,Ethnicity1,91,167,History2,Normal,FALSE,0,1,1,1
+361,61,Male,Ethnicity3,87,181,None,Normal,FALSE,0,0,0,0
+362,31,Other,Ethnicity1,67,160,History1,Elevated,TRUE,0,0,0,0
+363,28,Male,Ethnicity3,94,169,None,Slightly Elevated,FALSE,0,0,0,0
+364,26,Female,Ethnicity2,84,173,History1,Elevated,TRUE,0,0,0,0
+365,51,Female,Ethnicity4,79,164,History1,Slightly Elevated,FALSE,0,0,0,0
+366,29,Female,Ethnicity4,73,197,History2,Normal,FALSE,0,0,0,0
+367,52,Female,Ethnicity4,91,156,History2,Slightly Elevated,FALSE,0,1,1,1
+368,52,Female,Ethnicity2,79,170,History2,Normal,TRUE,0,1,1,1
+369,18,Male,Ethnicity3,63,191,History2,Slightly Elevated,FALSE,0,1,1,1
+370,57,Male,Ethnicity2,55,175,None,Elevated,FALSE,0,0,0,0
+371,39,Male,Ethnicity4,52,193,None,Normal,TRUE,0,0,0,0
+372,46,Male,Ethnicity2,65,163,None,Elevated,TRUE,0,0,0,0
+373,25,Female,Ethnicity2,56,186,History1,Elevated,FALSE,0,0,0,0
+374,28,Other,Ethnicity2,63,170,None,Normal,FALSE,0,0,0,0
+375,58,Male,Ethnicity3,58,167,None,Normal,FALSE,0,0,0,0
+376,54,Other,Ethnicity1,64,154,None,Elevated,TRUE,0,1,1,1
+377,31,Male,Ethnicity1,70,152,History2,Elevated,TRUE,0,0,0,0
+378,47,Male,Ethnicity2,84,172,None,Elevated,TRUE,0,0,0,0
+379,52,Other,Ethnicity1,51,175,History1,Elevated,TRUE,0,0,0,0
+380,38,Female,Ethnicity1,76,186,History2,Normal,FALSE,0,0,0,0
+381,54,Male,Ethnicity2,51,173,History1,Normal,TRUE,0,0,0,0
+382,22,Male,Ethnicity2,84,198,None,Elevated,TRUE,0,0,0,0
+383,36,Male,Ethnicity4,67,168,History2,Slightly Elevated,TRUE,0,1,1,1
+384,31,Other,Ethnicity1,63,174,History1,Slightly Elevated,FALSE,0,0,0,0
+385,43,Female,Ethnicity3,69,170,None,Normal,FALSE,0,0,0,0
+386,21,Other,Ethnicity2,67,161,History1,Elevated,TRUE,0,0,0,0
+387,42,Other,Ethnicity4,59,190,History1,Elevated,TRUE,0,0,0,0
+388,62,Female,Ethnicity3,74,182,History1,Normal,FALSE,0,0,0,0
+389,59,Other,Ethnicity1,51,199,None,Slightly Elevated,FALSE,0,0,0,0
+390,42,Female,Ethnicity4,74,153,None,Slightly Elevated,FALSE,0,0,0,0
+391,35,Male,Ethnicity2,82,191,History1,Slightly Elevated,FALSE,0,1,1,1
+392,57,Female,Ethnicity3,85,156,History2,Normal,FALSE,0,0,0,0
+393,25,Male,Ethnicity2,80,171,History2,Slightly Elevated,FALSE,0,0,0,0
+394,56,Other,Ethnicity1,63,182,None,Normal,FALSE,0,0,0,0
+395,57,Other,Ethnicity3,50,166,None,Normal,FALSE,0,0,0,0
+396,31,Male,Ethnicity1,95,173,None,Elevated,TRUE,0,0,0,0
+397,49,Other,Ethnicity1,65,183,None,Slightly Elevated,TRUE,0,0,0,0
+398,55,Female,Ethnicity4,95,177,None,Normal,TRUE,0,0,0,0
+399,50,Male,Ethnicity2,52,192,History2,Slightly Elevated,TRUE,0,0,0,0
+400,40,Other,Ethnicity3,84,190,None,Slightly Elevated,TRUE,0,0,0,0
+401,32,Male,Ethnicity1,90,188,History1,Elevated,TRUE,0,0,0,0
+402,50,Female,Ethnicity1,55,171,History1,Slightly Elevated,FALSE,0,0,0,0
+403,42,Female,Ethnicity3,74,198,History2,Elevated,FALSE,0,1,1,1
+404,34,Other,Ethnicity1,62,166,History1,Normal,TRUE,0,1,1,1
+405,50,Female,Ethnicity4,83,183,History2,Slightly Elevated,TRUE,0,1,1,0
+406,64,Male,Ethnicity4,57,155,History2,Normal,FALSE,0,0,0,0
+407,19,Female,Ethnicity4,70,195,History1,Slightly Elevated,FALSE,0,0,0,0
+408,31,Male,Ethnicity4,83,155,None,Normal,FALSE,0,0,0,0
+409,57,Male,Ethnicity1,53,183,History1,Slightly Elevated,TRUE,0,0,0,0
+410,57,Female,Ethnicity3,74,150,History1,Slightly Elevated,FALSE,0,1,1,1
+411,56,Other,Ethnicity3,64,159,History2,Slightly Elevated,TRUE,0,0,0,0
+412,23,Female,Ethnicity3,53,170,History1,Slightly Elevated,TRUE,0,0,0,0
+413,23,Male,Ethnicity3,94,154,History2,Slightly Elevated,FALSE,0,0,0,0
+414,20,Male,Ethnicity2,61,151,None,Slightly Elevated,FALSE,0,0,0,0
+415,24,Female,Ethnicity3,81,171,None,Slightly Elevated,TRUE,0,0,0,0
+416,25,Other,Ethnicity2,81,197,None,Slightly Elevated,FALSE,0,0,0,0
+417,59,Other,Ethnicity2,77,151,History1,Slightly Elevated,FALSE,0,0,0,0
+418,32,Male,Ethnicity4,62,159,History2,Normal,TRUE,0,0,0,0
+419,64,Male,Ethnicity2,80,183,None,Elevated,FALSE,0,0,0,0
+420,46,Other,Ethnicity1,63,165,History2,Slightly Elevated,TRUE,0,1,1,1
+421,50,Female,Ethnicity2,69,197,History2,Elevated,TRUE,0,0,0,0
+422,47,Male,Ethnicity4,67,188,None,Slightly Elevated,FALSE,0,0,0,0
+423,56,Male,Ethnicity2,78,171,None,Slightly Elevated,TRUE,0,0,0,0
+424,44,Other,Ethnicity1,55,161,History2,Normal,TRUE,0,1,1,1
+425,53,Female,Ethnicity1,81,173,None,Normal,FALSE,0,0,0,0
+426,46,Other,Ethnicity1,78,196,History2,Elevated,FALSE,0,0,0,0
+427,55,Female,Ethnicity4,92,189,History2,Normal,FALSE,0,1,1,1
+428,50,Female,Ethnicity4,51,187,None,Normal,TRUE,0,0,0,0
+429,54,Female,Ethnicity3,72,159,History1,Elevated,TRUE,0,1,1,1
+430,44,Male,Ethnicity4,68,184,None,Normal,FALSE,0,0,0,0
+431,50,Other,Ethnicity1,80,198,History1,Slightly Elevated,TRUE,0,1,1,1
+432,21,Other,Ethnicity1,54,181,History2,Elevated,FALSE,0,0,0,0
+433,39,Female,Ethnicity4,68,156,History2,Elevated,FALSE,0,0,0,0
+434,19,Male,Ethnicity2,83,170,History1,Slightly Elevated,TRUE,0,0,0,0
+435,27,Male,Ethnicity4,59,169,History2,Normal,FALSE,0,0,0,0
+436,22,Other,Ethnicity4,74,175,History1,Elevated,TRUE,0,0,0,0
+437,27,Male,Ethnicity1,51,153,History1,Elevated,TRUE,0,0,0,0
+438,50,Male,Ethnicity3,60,195,History2,Slightly Elevated,FALSE,0,0,0,0
+439,55,Female,Ethnicity1,99,171,History1,Slightly Elevated,TRUE,0,0,0,0
+440,30,Male,Ethnicity3,80,164,None,Normal,FALSE,0,0,0,0
+441,48,Female,Ethnicity1,64,189,None,Elevated,TRUE,0,0,0,0
+442,64,Other,Ethnicity4,58,170,History2,Normal,TRUE,0,0,0,0
+443,53,Male,Ethnicity1,72,164,History2,Normal,TRUE,0,0,0,0
+444,62,Other,Ethnicity1,68,171,History1,Slightly Elevated,FALSE,0,0,0,0
+445,41,Other,Ethnicity1,58,177,History1,Elevated,TRUE,0,0,0,0
+446,32,Male,Ethnicity4,84,163,History1,Elevated,FALSE,0,0,0,0
+447,46,Male,Ethnicity4,70,176,History1,Elevated,TRUE,0,0,0,0
+448,25,Other,Ethnicity4,58,190,None,Slightly Elevated,TRUE,0,0,0,0
+449,22,Male,Ethnicity4,77,189,None,Slightly Elevated,FALSE,0,0,0,0
+450,46,Female,Ethnicity3,95,177,History2,Slightly Elevated,FALSE,0,0,0,0
+451,64,Female,Ethnicity3,56,175,History1,Slightly Elevated,FALSE,0,0,0,0
+452,21,Male,Ethnicity2,65,198,History1,Slightly Elevated,FALSE,0,0,0,0
+453,29,Other,Ethnicity4,65,151,History2,Elevated,FALSE,0,0,0,0
+454,62,Male,Ethnicity3,82,174,History1,Normal,TRUE,0,0,0,0
+455,19,Male,Ethnicity1,53,152,History1,Elevated,TRUE,0,1,1,1
+456,44,Other,Ethnicity4,53,157,History1,Normal,FALSE,0,0,0,0
+457,48,Other,Ethnicity2,88,193,History1,Slightly Elevated,TRUE,0,0,0,0
+458,53,Female,Ethnicity2,89,182,History1,Normal,TRUE,0,0,0,0
+459,53,Other,Ethnicity2,66,191,History2,Elevated,TRUE,0,0,0,0
+460,43,Female,Ethnicity1,86,184,History1,Elevated,FALSE,0,0,0,0
+461,60,Other,Ethnicity3,88,155,History2,Normal,TRUE,0,0,0,0
+462,44,Male,Ethnicity1,78,188,History1,Slightly Elevated,TRUE,0,1,1,1
+463,22,Female,Ethnicity4,85,172,None,Slightly Elevated,TRUE,0,0,0,0
+464,37,Female,Ethnicity2,87,174,None,Elevated,FALSE,0,1,1,1
+465,28,Female,Ethnicity1,88,199,None,Normal,TRUE,0,0,0,0
+466,27,Male,Ethnicity1,99,192,None,Slightly Elevated,TRUE,0,0,0,0
+467,57,Male,Ethnicity3,86,168,History2,Slightly Elevated,FALSE,0,1,1,1
+468,55,Male,Ethnicity3,84,154,History2,Elevated,FALSE,0,0,0,0
+469,23,Male,Ethnicity2,56,160,History1,Slightly Elevated,TRUE,0,0,0,0
+470,25,Male,Ethnicity1,76,161,None,Normal,TRUE,0,0,0,0
+471,40,Female,Ethnicity1,77,159,History2,Elevated,FALSE,0,1,1,1
+472,64,Male,Ethnicity3,71,157,History1,Elevated,FALSE,0,0,0,0
+473,43,Female,Ethnicity1,63,173,History1,Normal,FALSE,0,0,0,0
+474,63,Male,Ethnicity1,56,177,History2,Elevated,FALSE,0,0,0,0
+475,60,Other,Ethnicity1,86,190,None,Slightly Elevated,FALSE,0,0,0,0
+476,29,Female,Ethnicity3,71,185,History1,Slightly Elevated,FALSE,0,0,0,0
+477,43,Other,Ethnicity2,54,186,None,Normal,FALSE,0,0,0,0
+478,30,Female,Ethnicity4,51,170,None,Slightly Elevated,TRUE,0,0,0,0
+479,57,Other,Ethnicity2,76,157,None,Normal,FALSE,0,0,0,0
+480,35,Male,Ethnicity4,70,158,History1,Normal,FALSE,0,0,0,0
+481,42,Male,Ethnicity1,87,196,None,Slightly Elevated,TRUE,0,1,1,1
+482,50,Male,Ethnicity2,64,164,History1,Normal,FALSE,0,0,0,0
+483,64,Female,Ethnicity4,70,197,None,Slightly Elevated,FALSE,0,0,0,0
+484,57,Other,Ethnicity3,59,195,History1,Elevated,TRUE,0,0,0,0
+485,60,Male,Ethnicity3,72,189,None,Elevated,FALSE,0,1,1,0
+486,29,Other,Ethnicity2,88,167,History2,Normal,TRUE,0,0,0,0
+487,61,Other,Ethnicity2,54,191,None,Slightly Elevated,TRUE,0,0,0,0
+488,53,Male,Ethnicity1,50,169,None,Slightly Elevated,TRUE,0,0,0,0
+489,21,Male,Ethnicity2,62,155,History1,Elevated,TRUE,0,0,0,0
+490,22,Other,Ethnicity1,70,161,History1,Elevated,FALSE,0,0,0,0
+491,54,Male,Ethnicity1,75,151,None,Slightly Elevated,TRUE,0,0,0,0
+492,25,Male,Ethnicity3,99,156,History2,Normal,TRUE,0,0,0,0
+493,59,Male,Ethnicity3,94,165,History2,Elevated,FALSE,0,0,0,0
+494,45,Female,Ethnicity4,70,152,History1,Normal,TRUE,0,0,0,0
+495,48,Other,Ethnicity3,67,194,History2,Normal,TRUE,0,0,0,0
+496,26,Other,Ethnicity3,86,152,None,Elevated,TRUE,0,0,0,0
+497,46,Female,Ethnicity2,94,176,History1,Normal,TRUE,0,0,0,0
+498,31,Other,Ethnicity3,81,199,None,Normal,FALSE,0,0,0,0
+499,57,Male,Ethnicity4,85,192,History1,Slightly Elevated,TRUE,0,1,1,1
+500,58,Other,Ethnicity2,66,189,History1,Normal,FALSE,0,0,0,0
+501,39,Male,Ethnicity4,84,187,History1,Slightly Elevated,FALSE,0,1,1,1
+502,28,Female,Ethnicity3,98,182,History1,Elevated,TRUE,0,0,0,0
+503,40,Male,Ethnicity4,60,177,History2,Elevated,TRUE,0,0,0,0
+504,18,Other,Ethnicity2,70,150,None,Slightly Elevated,TRUE,0,0,0,0
+505,63,Other,Ethnicity1,75,157,None,Elevated,TRUE,0,0,0,0
+506,54,Other,Ethnicity4,53,186,None,Normal,FALSE,0,0,0,0
+507,38,Female,Ethnicity4,83,181,History1,Normal,FALSE,0,0,0,0
+508,43,Female,Ethnicity2,97,197,History2,Normal,FALSE,0,0,0,0
+509,63,Other,Ethnicity2,67,192,None,Elevated,TRUE,0,0,0,0
+510,53,Male,Ethnicity4,89,186,History2,Normal,FALSE,0,0,0,0
+511,40,Female,Ethnicity3,84,153,History1,Elevated,TRUE,0,0,0,0
+512,18,Other,Ethnicity4,90,179,None,Normal,TRUE,0,1,1,0
+513,57,Other,Ethnicity2,78,155,History2,Slightly Elevated,TRUE,0,0,0,0
+514,32,Female,Ethnicity1,78,195,History1,Elevated,TRUE,0,0,0,0
+515,38,Female,Ethnicity1,87,168,History2,Elevated,TRUE,0,1,0,0
+516,64,Female,Ethnicity3,91,181,None,Normal,FALSE,0,0,0,0
+517,26,Male,Ethnicity4,70,158,None,Elevated,FALSE,0,0,0,0
+518,26,Male,Ethnicity1,91,161,History1,Elevated,TRUE,0,0,0,0
+519,27,Other,Ethnicity4,62,160,History1,Slightly Elevated,FALSE,0,0,0,0
+520,43,Female,Ethnicity2,98,195,History1,Slightly Elevated,TRUE,0,0,0,0
+521,58,Male,Ethnicity1,90,165,History2,Normal,TRUE,0,0,0,0
+522,52,Female,Ethnicity3,66,150,History2,Slightly Elevated,TRUE,0,0,0,0
+523,42,Other,Ethnicity2,58,194,History2,Normal,FALSE,0,0,0,0
+524,43,Male,Ethnicity3,90,170,History1,Normal,TRUE,0,0,0,0
+525,28,Male,Ethnicity2,50,179,None,Normal,TRUE,0,0,0,0
+526,55,Male,Ethnicity1,51,162,None,Elevated,FALSE,0,0,0,0
+527,19,Other,Ethnicity3,97,183,History2,Slightly Elevated,FALSE,0,0,0,0
+528,24,Female,Ethnicity3,78,153,History2,Normal,FALSE,0,0,0,0
+529,35,Male,Ethnicity2,82,177,None,Slightly Elevated,TRUE,0,0,0,0
+530,44,Other,Ethnicity3,59,187,None,Normal,TRUE,0,0,0,0
+531,51,Female,Ethnicity2,99,180,History2,Slightly Elevated,FALSE,0,0,0,0
+532,44,Other,Ethnicity2,89,176,History2,Slightly Elevated,TRUE,0,0,0,0
+533,34,Female,Ethnicity2,70,154,None,Normal,FALSE,0,0,0,0
+534,60,Other,Ethnicity2,77,174,History1,Elevated,FALSE,0,0,0,0
+535,61,Female,Ethnicity1,60,152,History2,Slightly Elevated,TRUE,0,1,1,1
+536,41,Male,Ethnicity2,83,182,None,Elevated,TRUE,0,0,0,0
+537,42,Female,Ethnicity4,57,153,None,Elevated,FALSE,0,0,0,0
+538,24,Other,Ethnicity3,71,174,None,Normal,FALSE,0,0,0,0
+539,23,Other,Ethnicity4,57,169,None,Normal,FALSE,0,0,0,0
+540,41,Female,Ethnicity1,98,183,History1,Normal,FALSE,0,0,0,0
